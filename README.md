@@ -36,15 +36,8 @@ I'm a **Flutter Developer** with a passion for creating visually appealing and r
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## 📫 Connect with Me
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-selim-848087205)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NadaAlaa1)
 [![Facebook](https://img.shields.io/badge/Facebook-1DA1F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/nadaselim115)
-
-## 🤝 Connect with Me
-
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/nada-selim-848087205)
-- **GitHub**: [Your GitHub Profile](https://github.com/NadaAlaa1)
-- **Facebook**: [Your Facebook Profile](https://www.facebook.com/nadaselim115)
 
 Feel free to connect with me on any of these platforms. Let’s collaborate and build something amazing together!
