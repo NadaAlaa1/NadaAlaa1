@@ -21,8 +21,8 @@ I'm a **Flutter Developer** with a passion for creating visually appealing and r
 - State Management using Provider, BLoC, and Riverpod
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=6)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NadaAlaa1&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NadaAlaa1&layout=compact&langs_count=6)
 
 
 ## 🛠️ Technologies & Tools
