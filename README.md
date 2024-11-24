@@ -15,8 +15,7 @@
   <a href="https://www.facebook.com/nadaselim115" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <a href="nadaaselim5@gmail.com" target="_blank">
+  <a href="mailto::nadaaselim5@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
 </div>
@@ -28,12 +27,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NadaAlaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
- ##  GitHub Profile Trophy
-<p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=NadaAlaa1" alt="Nada" /></p>
+## GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NadaAlaa1&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</p>
 
 ##  Streak Stats
-
-<p align="center"><img alt="GitHub Readme Streak Stats" src="https://streak-stats.demolab.com/?user=ahmedalgzery" style="display: block;">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NadaAlaa1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 # Languages and Tools
 <div align="left">
