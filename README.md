@@ -1,6 +1,25 @@
-<h2 align="left">Hi 👋! My name is Nada and I'm a Flutter Developer.</h2>
+<h1 align="center">Hi , I'm Nada Selim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Flutter+Developer" alt="Typing SVG" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NadaAlaa1&label=Profile%20views&color=0e75b6&style=flat" alt="NadaAlaa1" /> </p>
+
+
+- 🌱 I’m currently **Mobile Developer (Flutter)**
+- 📫 How to reach me **nadaaselim5@gmail.com**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nada-selim-848087205" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/nadaselim115" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  <a href="nadaaselim5@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
@@ -9,12 +28,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NadaAlaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+ ##  GitHub Profile Trophy
+<p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=NadaAlaa1" alt="Nada" /></p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+##  Streak Stats
 
-###
+<p align="center"><img alt="GitHub Readme Streak Stats" src="https://streak-stats.demolab.com/?user=ahmedalgzery" style="display: block;">
 
+# Languages and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
@@ -81,30 +102,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/nada-selim-848087205" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/nadaselim115" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <a href="nadaaselim5@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/NadaAlaa1/NadaAlaa1/output/snake.svg" alt="Snake animation" />
-
-###
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
