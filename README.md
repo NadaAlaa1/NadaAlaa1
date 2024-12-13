@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently **Mobile Developer (Flutter)**
-- 📫 How to reach me **nadaaselim5@gmail.com**
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/NadaAlaa1?tab=repositories)**.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nada-selim-848087205" target="_blank">
@@ -22,22 +22,17 @@
 
 ###
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Stats:
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NadaAlaa1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NadaAlaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-## GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NadaAlaa1&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</p>
-
-##  Streak Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=NadaAlaa1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-# Languages and Tools
+# <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
@@ -102,8 +97,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
 </div>
 
+## GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NadaAlaa1&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</p>
+
+
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/NadaAlaa1/NadaAlaa1/output/snake.svg" alt="Snake animation" />
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab">
+</h3>
