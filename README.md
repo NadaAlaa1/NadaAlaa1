@@ -20,7 +20,11 @@
   </a>
 </div>
 
-###
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Stats:
 
@@ -31,6 +35,12 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=NadaAlaa1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 # <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Languages and Tools:
 <div align="left">
@@ -97,17 +107,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
 </div>
 
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
 ## GitHub Profile Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NadaAlaa1&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </p>
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NadaAlaa1/NadaAlaa1/output/snake.svg" alt="Snake animation" />
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab">
