@@ -28,13 +28,13 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadaAlaa1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&range=2021-12-01:2025-12-31&cache_bust=12345" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NadaAlaa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NadaAlaa1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<a href="https://github.com/NadaAlaa1/github-readme-stats"><img alt="Nada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NadaAlaa1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/NadaAlaa1/github-readme-stats"><img alt="Nada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaAlaa1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p align="start">
+    <a href="https://github.com/NadaAlaa1/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nada's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NadaAlaa1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 <br>
 <div align="center">
