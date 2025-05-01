@@ -32,7 +32,8 @@
 <a href="https://github.com/NadaAlaa1/github-readme-stats"><img alt="Nada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaAlaa1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <p align="center">
     <a href="https://github.com/NadaAlaa1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nada's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NadaAlaa1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NadaAlaa1&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!--         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nada's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NadaAlaa1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> -->
     </a>
 </p>
 
