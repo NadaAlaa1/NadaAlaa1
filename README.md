@@ -29,7 +29,10 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Stats:
 
 <div align="center">
-  <a href="https://github.com/NadaAlaa1/github-readme-stats"><img alt="Nada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NadaAlaa1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!--   <a href="https://github.com/NadaAlaa1/github-readme-stats"><img alt="Nada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NadaAlaa1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+  <a href="https://github.com/NadaAlaa1/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NadaAlaa1&repo=github-readme-stats" />
+</a>
   <a href="https://github.com/NadaAlaa1/github-readme-stats"><img alt="Nada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaAlaa1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <p align="center">
     <a href="https://github.com/NadaAlaa1/github-readme-streak-stats">
