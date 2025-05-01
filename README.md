@@ -30,8 +30,8 @@
 
 <div align="center">
 <!--   <a href="https://github.com/NadaAlaa1/github-readme-stats"><img alt="Nada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NadaAlaa1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <a href="https://github.com/NadaAlaa1/github-readme-stats">
+  <img alt="Nada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NadaAlaa1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
   <a href="https://github.com/NadaAlaa1/github-readme-stats"><img alt="Nada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaAlaa1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <p align="center">
